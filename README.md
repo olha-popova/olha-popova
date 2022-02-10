@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @olha-popova
+- 👀 I’m interested in front-end web development: React, Redux, CSS & HTML. 
+- 🌱 I’m currently learning React & Redux.
+- 📫 How to reach me:
+- LinkedIn: https://www.linkedin.com/in/olha-popova-08870199/
+- Email: mycreative@olhapopova.com
+- WhatsApp: +38 096 274 44 84
