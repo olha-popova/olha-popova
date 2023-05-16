@@ -3,5 +3,3 @@
 - 🌱 I’m currently learning React & Redux.
 - 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/olha-popova-08870199/
-- Email: mycreative@olhapopova.com
-- WhatsApp: +38 096 274 44 84
